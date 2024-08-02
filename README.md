@@ -1,13 +1,13 @@
-# Simple React Hook Form Page
+# Simple Counter App with Redux Toolkit
 
-This project is a single-page application built with TypeScript, React, Tailwind CSS, and React Hook Form. It demonstrates a simple form handling implementation using React Hook Form, showcasing efficient and streamlined form validation and state management.
+This project is a single-page application built with TypeScript, React, Tailwind CSS, and Redux Toolkit. It demonstrates a simple counter implementation, showcasing efficient and streamlined state management with Redux Toolkit.
 
 ## Features
 
 - **TypeScript:** Strongly typed codebase for enhanced reliability and maintainability.
 - **React:** Component-based architecture for modular and reusable UI components.
 - **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
-- **React Hook Form:** Simplified form handling and validation with minimal re-renders.
+- **Redux Toolkit:** Simplified state management with minimal boilerplate.
 
 ## Live Site
 
