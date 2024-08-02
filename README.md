@@ -9,6 +9,10 @@ This project is a single-page application built with TypeScript, React, Tailwind
 - **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
 - **Redux Toolkit:** Simplified state management with minimal boilerplate.
 
+## Date of Completion
+
+Completed on August 2, 2024
+
 ## Live Site
 
 Check out the live version of the project [here](https://simple-counter-app-with-redux-toolkit.vercel.app/).
